@@ -1,0 +1,35 @@
+@media(max-width: 576px){
+    .conteudo-banner{
+        padding: 70px 30px;
+    }
+    .conteudo-banner h1{
+        font-size: 36px !important;
+        margin-bottom: 20px;
+    }
+    .conteudo-banner a{
+        padding: 8px 16px;
+        border-radius: 3px;
+        font-size: 18px;
+    }
+    .texto-nosso p{
+        font-size: 16px;
+    }
+    
+
+}
+
+/*Eventos*/
+
+@media(max-width: 576px){
+    .eventos .card-body{
+        background-color: #efefef;
+        width: 100%;
+    }
+    .eventos .card img{
+        border-radius: 0px;
+    }
+}
+
+.breadcrump .column{
+    max-width: 1000px;
+}
